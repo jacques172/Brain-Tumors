@@ -2,6 +2,9 @@
 
 <img src="https://miro.medium.com/max/2652/1*eTkBMyqdg9JodNcG_O4-Kw.jpeg" width="100%">
 
+![image](https://user-images.githubusercontent.com/96381612/212556977-7fd10ffb-7e56-446f-9c0f-6e0f7cd0ed67.png)
+
+
 Neural network to automatically segment tumor regions in brain
 
 - Used 484 training images from Decathlon 10 Challenge dataset and `nibabel` to extract the images and labels from the files.
